@@ -1,0 +1,10 @@
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\Clinic\bin\Debug\Clinic.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\Clinic\obj\Debug\Clinic.csproj.AssemblyReference.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\Clinic\obj\Debug\Clinic.csproj.CoreCompileInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\Clinic\obj\Debug\Clinic.exe
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\Clinic\bin\Debug\ClinicModelsLibrary.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\Clinic\bin\Debug\ClinicModelsLibrary.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\Clinic\obj\Debug\Clinic.csproj.CopyComplete

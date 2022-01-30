@@ -1,0 +1,6 @@
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\ClinicModelsLibrary\bin\Debug\ClinicModelsLibrary.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\ClinicModelsLibrary\bin\Debug\ClinicModelsLibrary.pdb
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.csproj.AssemblyReference.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.dll
+C:\Users\Ooi\Desktop\Dotnet17.1.2022\Project\ClinicSoluition\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.pdb
